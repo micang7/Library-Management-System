@@ -1,0 +1,430 @@
+0;0;"Predictably Irrational";Dan Ariely;2008;29;-1;2024-06-07
+0;1;"Predictably Irrational";Dan Ariely;2008;29;-1;2024-06-07
+0;2;"Predictably Irrational";Dan Ariely;2008;29;-1;2024-06-07
+0;3;"Predictably Irrational";Dan Ariely;2008;29;-1;2024-06-07
+0;4;"Predictably Irrational";Dan Ariely;2008;29;-1;2024-06-07
+0;5;"Predictably Irrational";Dan Ariely;2008;29;-1;2024-06-07
+0;6;"Predictably Irrational";Dan Ariely;2008;29;-1;2024-06-07
+0;7;"Predictably Irrational";Dan Ariely;2008;29;-1;2024-06-07
+1;8;"The Last Man Who Knew Everything";Andrew Robinson;2005;24;-1;2024-06-07
+1;9;"The Last Man Who Knew Everything";Andrew Robinson;2005;24;-1;2024-06-07
+1;10;"The Last Man Who Knew Everything";Andrew Robinson;2005;24;-1;2024-06-07
+1;11;"The Last Man Who Knew Everything";Andrew Robinson;2005;24;-1;2024-06-07
+1;12;"The Last Man Who Knew Everything";Andrew Robinson;2005;24;-1;2024-06-07
+2;13;"Charlotte's Web";E.B.White;1952;29;-1;2024-06-07
+2;14;"Charlotte's Web";E.B.White;1952;29;-1;2024-06-07
+3;15;"Attached";Amir Levine;2010;13;-1;2024-06-04
+3;16;"Attached";Amir Levine;2010;13;-1;2024-06-04
+4;17;"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23;-1;2024-06-04
+4;18;"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23;-1;2024-06-04
+4;19;"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23;-1;2024-06-04
+4;20;"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23;-1;2024-06-04
+4;21;"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23;-1;2024-06-04
+4;22;"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23;-1;2024-06-04
+5;23;"Autobiography";Benjamin Franklin;1791;26;-1;2024-06-04
+5;24;"Autobiography";Benjamin Franklin;1791;26;-1;2024-06-04
+5;25;"Autobiography";Benjamin Franklin;1791;26;-1;2024-06-04
+5;26;"Autobiography";Benjamin Franklin;1791;26;-1;2024-06-04
+5;27;"Autobiography";Benjamin Franklin;1791;26;-1;2024-06-04
+5;28;"Autobiography";Benjamin Franklin;1791;26;-1;2024-06-04
+5;29;"Autobiography";Benjamin Franklin;1791;26;-1;2024-06-04
+6;30;"The Missing Piece Meets the Big O";Shel Silverstein;1981;5;-1;2024-06-04
+6;31;"The Missing Piece Meets the Big O";Shel Silverstein;1981;5;-1;2024-06-04
+6;32;"The Missing Piece Meets the Big O";Shel Silverstein;1981;5;-1;2024-06-04
+6;33;"The Missing Piece Meets the Big O";Shel Silverstein;1981;5;-1;2024-06-04
+6;34;"The Missing Piece Meets the Big O";Shel Silverstein;1981;5;-1;2024-06-04
+6;35;"The Missing Piece Meets the Big O";Shel Silverstein;1981;5;-1;2024-06-04
+6;36;"The Missing Piece Meets the Big O";Shel Silverstein;1981;5;-1;2024-06-04
+7;37;"Doing Good Better";William MacAskill;2015;29;-1;2024-06-07
+7;38;"Doing Good Better";William MacAskill;2015;29;-1;2024-06-07
+7;39;"Doing Good Better";William MacAskill;2015;29;-1;2024-06-07
+7;40;"Doing Good Better";William MacAskill;2015;29;-1;2024-06-07
+7;41;"Doing Good Better";William MacAskill;2015;29;-1;2024-06-07
+7;42;"Doing Good Better";William MacAskill;2015;29;-1;2024-06-07
+8;43;"Common Sense";Thomas Paine;1776;29;-1;2024-06-04
+8;44;"Common Sense";Thomas Paine;1776;29;-1;2024-06-04
+8;45;"Common Sense";Thomas Paine;1776;29;-1;2024-06-04
+8;46;"Common Sense";Thomas Paine;1776;29;-1;2024-06-04
+8;47;"Common Sense";Thomas Paine;1776;29;-1;2024-06-04
+8;48;"Common Sense";Thomas Paine;1776;29;-1;2024-06-04
+9;49;"The Master Switch";Tim Wu;2010;25;-1;2024-06-04
+9;50;"The Master Switch";Tim Wu;2010;25;-1;2024-06-04
+9;51;"The Master Switch";Tim Wu;2010;25;-1;2024-06-04
+9;52;"The Master Switch";Tim Wu;2010;25;-1;2024-06-04
+9;53;"The Master Switch";Tim Wu;2010;25;-1;2024-06-04
+9;54;"The Master Switch";Tim Wu;2010;25;-1;2024-06-04
+9;55;"The Master Switch";Tim Wu;2010;25;-1;2024-06-04
+10;56;"The Wave";Todd Strasser;1981;6;-1;2024-06-04
+10;57;"The Wave";Todd Strasser;1981;6;-1;2024-06-04
+11;58;"The Giving Tree";Shel Silverstein;1964;31;-1;2024-06-04
+11;59;"The Giving Tree";Shel Silverstein;1964;31;-1;2024-06-04
+11;60;"The Giving Tree";Shel Silverstein;1964;31;-1;2024-06-04
+11;61;"The Giving Tree";Shel Silverstein;1964;31;-1;2024-06-04
+12;62;"Compilers, principles, techniques, and tools";Alfred V.Aho;1986;3;-1;2024-06-04
+13;63;"Of Mice and Men";John Steinbeck;1937;12;-1;2024-06-04
+13;64;"Of Mice and Men";John Steinbeck;1937;12;-1;2024-06-04
+13;65;"Of Mice and Men";John Steinbeck;1937;12;-1;2024-06-04
+13;66;"Of Mice and Men";John Steinbeck;1937;12;-1;2024-06-04
+14;67;"The Art of War";Sallie Stone;2005;14;-1;2024-06-04
+14;68;"The Art of War";Sallie Stone;2005;14;-1;2024-06-04
+14;69;"The Art of War";Sallie Stone;2005;14;-1;2024-06-04
+14;70;"The Art of War";Sallie Stone;2005;14;-1;2024-06-04
+15;71;"Introduction to the Theory of Computation";Michael Sipser;2005;16;-1;2024-06-04
+15;72;"Introduction to the Theory of Computation";Michael Sipser;2005;16;-1;2024-06-04
+15;73;"Introduction to the Theory of Computation";Michael Sipser;2005;16;-1;2024-06-04
+15;74;"Introduction to the Theory of Computation";Michael Sipser;2005;16;-1;2024-06-04
+16;75;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+16;76;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+16;77;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+16;78;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+16;79;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+16;80;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+16;81;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+16;82;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+16;83;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+16;84;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+17;85;"Downsiders";Neal Shusterman;2001;13;-1;2024-06-04
+17;86;"Downsiders";Neal Shusterman;2001;13;-1;2024-06-04
+17;87;"Downsiders";Neal Shusterman;2001;13;-1;2024-06-04
+18;88;"Artificial intelligence";Peter Norvig;1994;3;-1;2024-06-04
+18;89;"Artificial intelligence";Peter Norvig;1994;3;-1;2024-06-04
+18;90;"Artificial intelligence";Peter Norvig;1994;3;-1;2024-06-04
+18;91;"Artificial intelligence";Peter Norvig;1994;3;-1;2024-06-04
+18;92;"Artificial intelligence";Peter Norvig;1994;3;-1;2024-06-04
+18;93;"Artificial intelligence";Peter Norvig;1994;3;-1;2024-06-04
+18;94;"Artificial intelligence";Peter Norvig;1994;3;-1;2024-06-04
+19;95;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+19;96;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+19;97;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+19;98;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+19;99;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+19;100;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+19;101;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+19;102;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+19;103;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+19;104;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+20;105;"Green Eggs and Ham";Dr.Seuss;1960;20;-1;2024-06-04
+20;106;"Green Eggs and Ham";Dr.Seuss;1960;20;-1;2024-06-04
+20;107;"Green Eggs and Ham";Dr.Seuss;1960;20;-1;2024-06-04
+20;108;"Green Eggs and Ham";Dr.Seuss;1960;20;-1;2024-06-04
+20;109;"Green Eggs and Ham";Dr.Seuss;1960;20;-1;2024-06-04
+20;110;"Green Eggs and Ham";Dr.Seuss;1960;20;-1;2024-06-04
+21;111;"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11;-1;2024-06-04
+21;112;"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11;-1;2024-06-04
+21;113;"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11;-1;2024-06-04
+21;114;"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11;-1;2024-06-04
+21;115;"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11;-1;2024-06-04
+21;116;"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11;-1;2024-06-04
+21;117;"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11;-1;2024-06-04
+22;118;"The Catcher in the Rye";J.D.Salinger;1900;8;-1;2024-06-04
+22;119;"The Catcher in the Rye";J.D.Salinger;1900;8;-1;2024-06-04
+22;120;"The Catcher in the Rye";J.D.Salinger;1900;8;-1;2024-06-04
+23;121;"Im Westen nichts Neues";Erich Maria Remarque;1928;17;-1;2024-06-04
+24;122;"Novels (Cannery Row / Of Mice and Men)";John Steinbeck;1947;18;-1;2024-06-04
+24;123;"Novels (Cannery Row / Of Mice and Men)";John Steinbeck;1947;18;-1;2024-06-04
+25;124;"The three-body problem";Cixin Liu;2008;17;-1;2024-06-04
+26;125;"Matilda";Roald Dahl;1988;13;-1;2024-06-04
+26;126;"Matilda";Roald Dahl;1988;13;-1;2024-06-04
+26;127;"Matilda";Roald Dahl;1988;13;-1;2024-06-04
+26;128;"Matilda";Roald Dahl;1988;13;-1;2024-06-04
+26;129;"Matilda";Roald Dahl;1988;13;-1;2024-06-04
+26;130;"Matilda";Roald Dahl;1988;13;-1;2024-06-04
+26;131;"Matilda";Roald Dahl;1988;13;-1;2024-06-04
+27;132;"Downsiders";Neal Shusterman;1999;10;-1;2024-06-04
+27;133;"Downsiders";Neal Shusterman;1999;10;-1;2024-06-04
+27;134;"Downsiders";Neal Shusterman;1999;10;-1;2024-06-04
+27;135;"Downsiders";Neal Shusterman;1999;10;-1;2024-06-04
+27;136;"Downsiders";Neal Shusterman;1999;10;-1;2024-06-04
+27;137;"Downsiders";Neal Shusterman;1999;10;-1;2024-06-04
+28;138;"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23;-1;2024-06-04
+28;139;"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23;-1;2024-06-04
+28;140;"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23;-1;2024-06-04
+28;141;"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23;-1;2024-06-04
+28;142;"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23;-1;2024-06-04
+28;143;"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23;-1;2024-06-04
+28;144;"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23;-1;2024-06-04
+29;145;"Ready Player One";Ernest Cline;2008;11;-1;2024-06-04
+30;146;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+30;147;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+30;148;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+30;149;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+30;150;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+30;151;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+30;152;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+30;153;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+30;154;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+31;155;"Risk up front";Adam Josephs;2018;30;-1;2024-06-04
+31;156;"Risk up front";Adam Josephs;2018;30;-1;2024-06-04
+32;157;"A short history of nearly everything";Bill Bryson;2003;12;-1;2024-06-04
+32;158;"A short history of nearly everything";Bill Bryson;2003;12;-1;2024-06-04
+32;159;"A short history of nearly everything";Bill Bryson;2003;12;-1;2024-06-04
+32;160;"A short history of nearly everything";Bill Bryson;2003;12;-1;2024-06-04
+32;161;"A short history of nearly everything";Bill Bryson;2003;12;-1;2024-06-04
+33;162;"Drawdown";Paul Hawken;2017;14;-1;2024-06-04
+33;163;"Drawdown";Paul Hawken;2017;14;-1;2024-06-04
+33;164;"Drawdown";Paul Hawken;2017;14;-1;2024-06-04
+33;165;"Drawdown";Paul Hawken;2017;14;-1;2024-06-04
+33;166;"Drawdown";Paul Hawken;2017;14;-1;2024-06-04
+33;167;"Drawdown";Paul Hawken;2017;14;-1;2024-06-04
+34;168;"Musical acoustics";Hall Donald;1980;3;-1;2024-06-04
+35;169;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+35;170;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+35;171;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+35;172;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+35;173;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+35;174;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+35;175;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+35;176;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+35;177;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+36;178;"Network security";Charlie Kaufman;1995;31;-1;2024-06-04
+36;179;"Network security";Charlie Kaufman;1995;31;-1;2024-06-04
+36;180;"Network security";Charlie Kaufman;1995;31;-1;2024-06-04
+36;181;"Network security";Charlie Kaufman;1995;31;-1;2024-06-04
+36;182;"Network security";Charlie Kaufman;1995;31;-1;2024-06-04
+36;183;"Network security";Charlie Kaufman;1995;31;-1;2024-06-04
+37;184;"Founders at work";Jessica Livingston;2007;17;-1;2024-06-04
+37;185;"Founders at work";Jessica Livingston;2007;17;-1;2024-06-04
+37;186;"Founders at work";Jessica Livingston;2007;17;-1;2024-06-04
+37;187;"Founders at work";Jessica Livingston;2007;17;-1;2024-06-04
+37;188;"Founders at work";Jessica Livingston;2007;17;-1;2024-06-04
+38;189;"Introduction to linear algebra";Gilbert Strang;1998;18;-1;2024-06-04
+38;190;"Introduction to linear algebra";Gilbert Strang;1998;18;-1;2024-06-04
+38;191;"Introduction to linear algebra";Gilbert Strang;1998;18;-1;2024-06-04
+39;192;"Introduction to linear algebra";Gilbert Strang;1989;22;-1;2024-06-04
+40;193;"Understanding Symbolic Logic";Virginia Klenk;1983;7;-1;2024-06-04
+40;194;"Understanding Symbolic Logic";Virginia Klenk;1983;7;-1;2024-06-04
+40;195;"Understanding Symbolic Logic";Virginia Klenk;1983;7;-1;2024-06-04
+40;196;"Understanding Symbolic Logic";Virginia Klenk;1983;7;-1;2024-06-04
+40;197;"Understanding Symbolic Logic";Virginia Klenk;1983;7;-1;2024-06-04
+40;198;"Understanding Symbolic Logic";Virginia Klenk;1983;7;-1;2024-06-04
+41;199;"Cornered";Barry C.Lynn;2010;11;-1;2024-06-04
+41;200;"Cornered";Barry C.Lynn;2010;11;-1;2024-06-04
+41;201;"Cornered";Barry C.Lynn;2010;11;-1;2024-06-04
+41;202;"Cornered";Barry C.Lynn;2010;11;-1;2024-06-04
+41;203;"Cornered";Barry C.Lynn;2010;11;-1;2024-06-04
+42;204;"The prince, and selected discourses";Niccolò Machiavelli;1966;24;-1;2024-06-04
+42;205;"The prince, and selected discourses";Niccolò Machiavelli;1966;24;-1;2024-06-04
+42;206;"The prince, and selected discourses";Niccolò Machiavelli;1966;24;-1;2024-06-04
+42;207;"The prince, and selected discourses";Niccolò Machiavelli;1966;24;-1;2024-06-04
+42;208;"The prince, and selected discourses";Niccolò Machiavelli;1966;24;-1;2024-06-04
+42;209;"The prince, and selected discourses";Niccolò Machiavelli;1966;24;-1;2024-06-04
+42;210;"The prince, and selected discourses";Niccolò Machiavelli;1966;24;-1;2024-06-04
+42;211;"The prince, and selected discourses";Niccolò Machiavelli;1966;24;-1;2024-06-04
+43;212;"Le Comte de Monte Cristo";Alexandre Dumas;1830;12;-1;2024-06-04
+44;213;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+44;214;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+44;215;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+44;216;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+44;217;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+44;218;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+44;219;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+44;220;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+44;221;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+44;222;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+45;223;"The Art of War";Sun Tzu;1910;25;-1;2024-06-04
+45;224;"The Art of War";Sun Tzu;1910;25;-1;2024-06-04
+45;225;"The Art of War";Sun Tzu;1910;25;-1;2024-06-04
+45;226;"The Art of War";Sun Tzu;1910;25;-1;2024-06-04
+46;227;"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27;-1;2024-06-04
+46;228;"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27;-1;2024-06-04
+46;229;"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27;-1;2024-06-04
+46;230;"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27;-1;2024-06-04
+46;231;"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27;-1;2024-06-04
+46;232;"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27;-1;2024-06-04
+47;233;"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16;-1;2024-06-04
+47;234;"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16;-1;2024-06-04
+47;235;"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16;-1;2024-06-04
+47;236;"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16;-1;2024-06-04
+47;237;"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16;-1;2024-06-04
+47;238;"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16;-1;2024-06-04
+47;239;"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16;-1;2024-06-04
+48;240;"Which side are you on?";Thomas Geoghegan;1991;28;-1;2024-06-04
+48;241;"Which side are you on?";Thomas Geoghegan;1991;28;-1;2024-06-04
+49;242;"Who Owns the Future?";Jaron Lanier;2013;12;-1;2024-06-04
+49;243;"Who Owns the Future?";Jaron Lanier;2013;12;-1;2024-06-04
+49;244;"Who Owns the Future?";Jaron Lanier;2013;12;-1;2024-06-04
+49;245;"Who Owns the Future?";Jaron Lanier;2013;12;-1;2024-06-04
+49;246;"Who Owns the Future?";Jaron Lanier;2013;12;-1;2024-06-04
+50;247;"Reinventing Organizations";Frederic Laloux;2014;7;-1;2024-06-04
+50;248;"Reinventing Organizations";Frederic Laloux;2014;7;-1;2024-06-04
+50;249;"Reinventing Organizations";Frederic Laloux;2014;7;-1;2024-06-04
+50;250;"Reinventing Organizations";Frederic Laloux;2014;7;-1;2024-06-04
+51;251;"The 22 immutable laws of marketing";Al Ries;1993;7;-1;2024-06-04
+51;252;"The 22 immutable laws of marketing";Al Ries;1993;7;-1;2024-06-04
+51;253;"The 22 immutable laws of marketing";Al Ries;1993;7;-1;2024-06-04
+51;254;"The 22 immutable laws of marketing";Al Ries;1993;7;-1;2024-06-04
+52;255;"The better angels of our nature";Steven Pinker;2011;19;-1;2024-06-04
+52;256;"The better angels of our nature";Steven Pinker;2011;19;-1;2024-06-04
+52;257;"The better angels of our nature";Steven Pinker;2011;19;-1;2024-06-04
+52;258;"The better angels of our nature";Steven Pinker;2011;19;-1;2024-06-04
+52;259;"The better angels of our nature";Steven Pinker;2011;19;-1;2024-06-04
+52;260;"The better angels of our nature";Steven Pinker;2011;19;-1;2024-06-04
+53;261;"Debt";David Graeber;2011;13;-1;2024-06-04
+53;262;"Debt";David Graeber;2011;13;-1;2024-06-04
+54;263;"Influence";Robert B.Cialdini;1983;17;-1;2024-06-04
+54;264;"Influence";Robert B.Cialdini;1983;17;-1;2024-06-04
+54;265;"Influence";Robert B.Cialdini;1983;17;-1;2024-06-04
+54;266;"Influence";Robert B.Cialdini;1983;17;-1;2024-06-04
+54;267;"Influence";Robert B.Cialdini;1983;17;-1;2024-06-04
+55;268;"Lord of Flies";William Golding;1954;4;-1;2024-06-04
+55;269;"Lord of Flies";William Golding;1954;4;-1;2024-06-04
+55;270;"Lord of Flies";William Golding;1954;4;-1;2024-06-04
+55;271;"Lord of Flies";William Golding;1954;4;-1;2024-06-04
+55;272;"Lord of Flies";William Golding;1954;4;-1;2024-06-04
+55;273;"Lord of Flies";William Golding;1954;4;-1;2024-06-04
+55;274;"Lord of Flies";William Golding;1954;4;-1;2024-06-04
+55;275;"Lord of Flies";William Golding;1954;4;-1;2024-06-04
+56;276;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+56;277;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+56;278;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+56;279;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+56;280;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+56;281;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+56;282;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+56;283;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+56;284;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+56;285;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+57;286;"Understanding Power";Noam Chomsky;2002;26;-1;2024-06-04
+58;287;"Harry Potter and the Order of the Phoenix";J.K.Rowling;2003;26;-1;2024-06-04
+59;288;"The Prince";Niccolò Machiavelli;1515;3;-1;2024-06-04
+59;289;"The Prince";Niccolò Machiavelli;1515;3;-1;2024-06-04
+59;290;"The Prince";Niccolò Machiavelli;1515;3;-1;2024-06-04
+59;291;"The Prince";Niccolò Machiavelli;1515;3;-1;2024-06-04
+59;292;"The Prince";Niccolò Machiavelli;1515;3;-1;2024-06-04
+60;293;"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28;-1;2024-06-04
+60;294;"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28;-1;2024-06-04
+60;295;"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28;-1;2024-06-04
+60;296;"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28;-1;2024-06-04
+60;297;"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28;-1;2024-06-04
+60;298;"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28;-1;2024-06-04
+60;299;"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28;-1;2024-06-04
+60;300;"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28;-1;2024-06-04
+61;301;"Glut";Alex Wright;2007;7;-1;2024-06-04
+61;302;"Glut";Alex Wright;2007;7;-1;2024-06-04
+61;303;"Glut";Alex Wright;2007;7;-1;2024-06-04
+61;304;"Glut";Alex Wright;2007;7;-1;2024-06-04
+61;305;"Glut";Alex Wright;2007;7;-1;2024-06-04
+62;306;"How to win friends and influence people";Dale Carnegie;1913;3;-1;2024-06-04
+62;307;"How to win friends and influence people";Dale Carnegie;1913;3;-1;2024-06-04
+62;308;"How to win friends and influence people";Dale Carnegie;1913;3;-1;2024-06-04
+62;309;"How to win friends and influence people";Dale Carnegie;1913;3;-1;2024-06-04
+63;310;"Zen and the Art of Motorcycle Maintenance";Robert M.Pirsig;1974;30;-1;2024-06-04
+64;311;"The authoritative Calvin and Hobbes";Bill Watterson;1988;23;-1;2024-06-04
+65;312;"The Giver";Lois Lowry;1993;7;-1;2024-06-04
+65;313;"The Giver";Lois Lowry;1993;7;-1;2024-06-04
+65;314;"The Giver";Lois Lowry;1993;7;-1;2024-06-04
+65;315;"The Giver";Lois Lowry;1993;7;-1;2024-06-04
+66;316;"Sam Walton";Sam Walton;1992;11;-1;2024-06-04
+66;317;"Sam Walton";Sam Walton;1992;11;-1;2024-06-04
+66;318;"Sam Walton";Sam Walton;1992;11;-1;2024-06-04
+66;319;"Sam Walton";Sam Walton;1992;11;-1;2024-06-04
+66;320;"Sam Walton";Sam Walton;1992;11;-1;2024-06-04
+66;321;"Sam Walton";Sam Walton;1992;11;-1;2024-06-04
+66;322;"Sam Walton";Sam Walton;1992;11;-1;2024-06-04
+67;323;"The Legacy";R.A.Salvatore;1992;16;-1;2024-06-04
+67;324;"The Legacy";R.A.Salvatore;1992;16;-1;2024-06-04
+67;325;"The Legacy";R.A.Salvatore;1992;16;-1;2024-06-04
+67;326;"The Legacy";R.A.Salvatore;1992;16;-1;2024-06-04
+68;327;"The now habit";Neil Fiore;1988;18;-1;2024-06-04
+68;328;"The now habit";Neil Fiore;1988;18;-1;2024-06-04
+68;329;"The now habit";Neil Fiore;1988;18;-1;2024-06-04
+68;330;"The now habit";Neil Fiore;1988;18;-1;2024-06-04
+68;331;"The now habit";Neil Fiore;1988;18;-1;2024-06-04
+69;332;"The Lone Drow";R.A.Salvatore;2003;13;-1;2024-06-04
+70;333;"The Checklist Manifesto";Atul Gawande;2010;24;-1;2024-06-04
+70;334;"The Checklist Manifesto";Atul Gawande;2010;24;-1;2024-06-04
+70;335;"The Checklist Manifesto";Atul Gawande;2010;24;-1;2024-06-04
+70;336;"The Checklist Manifesto";Atul Gawande;2010;24;-1;2024-06-04
+70;337;"The Checklist Manifesto";Atul Gawande;2010;24;-1;2024-06-04
+70;338;"The Checklist Manifesto";Atul Gawande;2010;24;-1;2024-06-04
+70;339;"The Checklist Manifesto";Atul Gawande;2010;24;-1;2024-06-04
+70;340;"The Checklist Manifesto";Atul Gawande;2010;24;-1;2024-06-04
+71;341;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+71;342;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+71;343;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+71;344;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+71;345;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+71;346;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+71;347;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+71;348;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+71;349;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+72;350;"The Hyperlinked Society";Lokman Tsui;2008;24;-1;2024-06-04
+73;351;"William Golding's Lord of the flies";F.William Nelson;1963;20;-1;2024-06-04
+73;352;"William Golding's Lord of the flies";F.William Nelson;1963;20;-1;2024-06-04
+73;353;"William Golding's Lord of the flies";F.William Nelson;1963;20;-1;2024-06-04
+73;354;"William Golding's Lord of the flies";F.William Nelson;1963;20;-1;2024-06-04
+73;355;"William Golding's Lord of the flies";F.William Nelson;1963;20;-1;2024-06-04
+73;356;"William Golding's Lord of the flies";F.William Nelson;1963;20;-1;2024-06-04
+73;357;"William Golding's Lord of the flies";F.William Nelson;1963;20;-1;2024-06-04
+73;358;"William Golding's Lord of the flies";F.William Nelson;1963;20;-1;2024-06-04
+74;359;"Jumanji";Chris Van Allsburg;1981;8;-1;2024-06-04
+75;360;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+75;361;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+75;362;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+75;363;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+75;364;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+75;365;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+75;366;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+75;367;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+75;368;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+76;369;"Principles";Ray Dalio;2011;21;-1;2024-06-04
+76;370;"Principles";Ray Dalio;2011;21;-1;2024-06-04
+76;371;"Principles";Ray Dalio;2011;21;-1;2024-06-04
+76;372;"Principles";Ray Dalio;2011;21;-1;2024-06-04
+76;373;"Principles";Ray Dalio;2011;21;-1;2024-06-04
+77;374;"Animal Farm";George Orwell;1945;20;-1;2024-06-04
+77;375;"Animal Farm";George Orwell;1945;20;-1;2024-06-04
+77;376;"Animal Farm";George Orwell;1945;20;-1;2024-06-04
+78;377;"Harry Potter and the Prisoner of Azkaban";J.K.Rowling;1999;9;-1;2024-06-04
+78;378;"Harry Potter and the Prisoner of Azkaban";J.K.Rowling;1999;9;-1;2024-06-04
+79;379;"Streams of Silver";R.A.Salvatore;1989;12;-1;2024-06-04
+79;380;"Streams of Silver";R.A.Salvatore;1989;12;-1;2024-06-04
+79;381;"Streams of Silver";R.A.Salvatore;1989;12;-1;2024-06-04
+79;382;"Streams of Silver";R.A.Salvatore;1989;12;-1;2024-06-04
+79;383;"Streams of Silver";R.A.Salvatore;1989;12;-1;2024-06-04
+79;384;"Streams of Silver";R.A.Salvatore;1989;12;-1;2024-06-04
+80;385;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+80;386;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+80;387;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+80;388;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+80;389;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+80;390;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+80;391;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+80;392;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+80;393;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+80;394;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+81;395;"The Demon Spirit";R.A.Salvatore;1998;17;-1;2024-06-04
+82;396;"The Highwayman";R.A.Salvatore;2004;27;-1;2024-06-04
+82;397;"The Highwayman";R.A.Salvatore;2004;27;-1;2024-06-04
+82;398;"The Highwayman";R.A.Salvatore;2004;27;-1;2024-06-04
+83;399;"Assata";Assata Shakur;1987;4;-1;2024-06-04
+83;400;"Assata";Assata Shakur;1987;4;-1;2024-06-04
+83;401;"Assata";Assata Shakur;1987;4;-1;2024-06-04
+83;402;"Assata";Assata Shakur;1987;4;-1;2024-06-04
+83;403;"Assata";Assata Shakur;1987;4;-1;2024-06-04
+84;404;"High Output Management";Andrew S.Grove;1983;2;-1;2024-06-04
+84;405;"High Output Management";Andrew S.Grove;1983;2;-1;2024-06-04
+84;406;"High Output Management";Andrew S.Grove;1983;2;-1;2024-06-04
+85;407;"The Crystal Shard";R.A.Salvatore;1988;13;-1;2024-06-04
+85;408;"The Crystal Shard";R.A.Salvatore;1988;13;-1;2024-06-04
+85;409;"The Crystal Shard";R.A.Salvatore;1988;13;-1;2024-06-04
+85;410;"The Crystal Shard";R.A.Salvatore;1988;13;-1;2024-06-04
+85;411;"The Crystal Shard";R.A.Salvatore;1988;13;-1;2024-06-04
+85;412;"The Crystal Shard";R.A.Salvatore;1988;13;-1;2024-06-04
+85;413;"The Crystal Shard";R.A.Salvatore;1988;13;-1;2024-06-04
+85;414;"The Crystal Shard";R.A.Salvatore;1988;13;-1;2024-06-04
+86;415;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+86;416;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+86;417;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+86;418;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+86;419;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+86;420;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+86;421;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+86;422;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+86;423;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+87;424;"Exile";R.A.Salvatore;1990;18;-1;2024-06-04
+87;425;"Exile";R.A.Salvatore;1990;18;-1;2024-06-04
+87;426;"Exile";R.A.Salvatore;1990;18;-1;2024-06-04
+88;427;"Animalia";Graeme Base;1986;12;-1;2024-06-04
+88;428;"Animalia";Graeme Base;1986;12;-1;2024-06-04
+88;429;"Animalia";Graeme Base;1986;12;-1;2024-06-04

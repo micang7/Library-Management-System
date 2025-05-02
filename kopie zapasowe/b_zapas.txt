@@ -1,0 +1,89 @@
+0;0;"Predictably Irrational";Dan Ariely;2008;29;-1;2024-06-07
+0;1;"The Last Man Who Knew Everything";Andrew Robinson;2005;24;-1;2024-06-07
+0;2;"Charlotte's Web";E.B.White;1952;29;-1;2024-06-07
+0;3;"Attached";Amir Levine;2010;13;-1;2024-06-04
+0;4;"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23;-1;2024-06-04
+0;5;"Autobiography";Benjamin Franklin;1791;26;-1;2024-06-04
+0;6;"The Missing Piece Meets the Big O";Shel Silverstein;1981;5;-1;2024-06-04
+0;7;"Doing Good Better";William MacAskill;2015;29;13;2024-06-07
+0;8;"Common Sense";Thomas Paine;1776;29;-1;2024-06-04
+0;9;"The Master Switch";Tim Wu;2010;25;-1;2024-06-04
+1;10;"The Wave";Todd Strasser;1981;6;-1;2024-06-04
+1;11;"The Giving Tree";Shel Silverstein;1964;31;-1;2024-06-04
+1;12;"Compilers, principles, techniques, and tools";Alfred V.Aho;1986;3;-1;2024-06-04
+1;13;"Of Mice and Men";John Steinbeck;1937;12;-1;2024-06-04
+1;14;"The Art of War";Sallie Stone;2005;14;-1;2024-06-04
+1;15;"Introduction to the Theory of Computation";Michael Sipser;2005;16;-1;2024-06-04
+1;16;"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5;-1;2024-06-04
+1;17;"Downsiders";Neal Shusterman;2001;13;-1;2024-06-04
+1;18;"Artificial intelligence";Peter Norvig;1994;3;-1;2024-06-04
+1;19;"Het Achterhuis";Anne Frank;1944;27;-1;2024-06-04
+2;20;"Green Eggs and Ham";Dr.Seuss;1960;20;-1;2024-06-04
+2;21;"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11;-1;2024-06-04
+2;22;"The Catcher in the Rye";J.D.Salinger;1900;8;-1;2024-06-04
+2;23;"Im Westen nichts Neues";Erich Maria Remarque;1928;17;-1;2024-06-04
+2;24;"Novels (Cannery Row / Of Mice and Men)";John Steinbeck;1947;18;-1;2024-06-04
+2;25;"The three-body problem";Cixin Liu;2008;17;-1;2024-06-04
+2;26;"Matilda";Roald Dahl;1988;13;-1;2024-06-04
+2;27;"Downsiders";Neal Shusterman;1999;10;-1;2024-06-04
+2;28;"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23;-1;2024-06-04
+2;29;"Ready Player One";Ernest Cline;2008;11;-1;2024-06-04
+3;30;"Introduction to the theory of computation";Michael Sipser;1996;12;-1;2024-06-04
+3;31;"Risk up front";Adam Josephs;2018;30;-1;2024-06-04
+3;32;"A short history of nearly everything";Bill Bryson;2003;12;-1;2024-06-04
+3;33;"Drawdown";Paul Hawken;2017;14;-1;2024-06-04
+3;34;"Musical acoustics";Hall Donald;1980;3;-1;2024-06-04
+3;35;"Operating System Concepts";Abraham Silberschatz;1988;21;-1;2024-06-04
+3;36;"Network security";Charlie Kaufman;1995;31;-1;2024-06-04
+3;37;"Founders at work";Jessica Livingston;2007;17;-1;2024-06-04
+3;38;"Introduction to linear algebra";Gilbert Strang;1998;18;-1;2024-06-04
+3;39;"Introduction to linear algebra";Gilbert Strang;1989;22;-1;2024-06-04
+4;40;"Understanding Symbolic Logic";Virginia Klenk;1983;7;-1;2024-06-04
+4;41;"Cornered";Barry C.Lynn;2010;11;-1;2024-06-04
+4;42;"The prince, and selected discourses";Niccolò Machiavelli;1966;24;-1;2024-06-04
+4;43;"Le Comte de Monte Cristo";Alexandre Dumas;1830;12;-1;2024-06-04
+4;44;"On Tyranny";Timothy Snyder;2017;17;-1;2024-06-04
+4;45;"The Art of War";Sun Tzu;1910;25;-1;2024-06-04
+4;46;"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27;-1;2024-06-04
+4;47;"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16;-1;2024-06-04
+4;48;"Which side are you on?";Thomas Geoghegan;1991;28;-1;2024-06-04
+4;49;"Who Owns the Future?";Jaron Lanier;2013;12;-1;2024-06-04
+5;50;"Reinventing Organizations";Frederic Laloux;2014;7;-1;2024-06-04
+5;51;"The 22 immutable laws of marketing";Al Ries;1993;7;-1;2024-06-04
+5;52;"The better angels of our nature";Steven Pinker;2011;19;-1;2024-06-04
+5;53;"Debt";David Graeber;2011;13;-1;2024-06-04
+5;54;"Influence";Robert B.Cialdini;1983;17;-1;2024-06-04
+5;55;"Lord of Flies";William Golding;1954;4;-1;2024-06-04
+5;56;"Moral mazes";Robert Jackall;1988;25;-1;2024-06-04
+5;57;"Understanding Power";Noam Chomsky;2002;26;-1;2024-06-04
+5;58;"Harry Potter and the Order of the Phoenix";J.K.Rowling;2003;26;-1;2024-06-04
+5;59;"The Prince";Niccolò Machiavelli;1515;3;-1;2024-06-04
+6;60;"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28;-1;2024-06-04
+6;61;"Glut";Alex Wright;2007;7;-1;2024-06-04
+6;62;"How to win friends and influence people";Dale Carnegie;1913;3;-1;2024-06-04
+6;63;"Zen and the Art of Motorcycle Maintenance";Robert M.Pirsig;1974;30;-1;2024-06-04
+6;64;"The authoritative Calvin and Hobbes";Bill Watterson;1988;23;-1;2024-06-04
+6;65;"The Giver";Lois Lowry;1993;7;-1;2024-06-04
+6;66;"Sam Walton";Sam Walton;1992;11;-1;2024-06-04
+6;67;"The Legacy";R.A.Salvatore;1992;16;-1;2024-06-04
+6;68;"The now habit";Neil Fiore;1988;18;-1;2024-06-04
+6;69;"The Lone Drow";R.A.Salvatore;2003;13;-1;2024-06-04
+7;70;"The Checklist Manifesto";Atul Gawande;2010;24;-1;2024-06-04
+7;71;"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18;-1;2024-06-04
+7;72;"The Hyperlinked Society";Lokman Tsui;2008;24;-1;2024-06-04
+7;73;"William Golding's Lord of the flies";F.William Nelson;1963;20;-1;2024-06-04
+7;74;"Jumanji";Chris Van Allsburg;1981;8;-1;2024-06-04
+7;75;"Hatchet";Gary Paulsen;1986;6;-1;2024-06-04
+7;76;"Principles";Ray Dalio;2011;21;-1;2024-06-04
+7;77;"Animal Farm";George Orwell;1945;20;-1;2024-06-04
+7;78;"Harry Potter and the Prisoner of Azkaban";J.K.Rowling;1999;9;-1;2024-06-04
+7;79;"Streams of Silver";R.A.Salvatore;1989;12;-1;2024-06-04
+8;80;"The Demon Apostle";R.A.Salvatore;1999;23;-1;2024-06-04
+8;81;"The Demon Spirit";R.A.Salvatore;1998;17;-1;2024-06-04
+8;82;"The Highwayman";R.A.Salvatore;2004;27;-1;2024-06-04
+8;83;"Assata";Assata Shakur;1987;4;-1;2024-06-04
+8;84;"High Output Management";Andrew S.Grove;1983;2;-1;2024-06-04
+8;85;"The Crystal Shard";R.A.Salvatore;1988;13;-1;2024-06-04
+8;86;"The fellowship of the ring";J.R.R.Tolkien;1954;13;-1;2024-06-04
+8;87;"Exile";R.A.Salvatore;1990;18;-1;2024-06-04
+8;88;"Animalia";Graeme Base;1986;12;-1;2024-06-04

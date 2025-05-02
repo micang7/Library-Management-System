@@ -1,0 +1,14 @@
+Anna;Wiśniewska;1980-02-10;11984567912;awis@gmail.com;aKswEinśiw012&;;0
+Piotr;Mazur;1974-01-17;12987876234;piotrm@interia.pl;ruZaM711%;;1
+Katarzyna:Maria;Kamińska;1976-07-02;96652332429;kasia@gmail.com;aksńIMak207#;;2
+Krzysztof;Wysocki;1982-12-09;82735832423;krzyś@gmail.com;IkCosyW902!;;3
+Tomasz:Andrzej;Adamski;1997-10-23;73278783267;tomaszadamski@interia.pl;iksMAda320*;;4
+Agnieszka:Magdalena;Rutkowska;2001-09-29;54563215687;amrut@gmail.com;aksWOktuR929;;5
+Paweł;Sokołowski;2003-06-25;24354252327;pawel@gmail.com;iksWOłoKoS526;;6
+Jan:Marcin:Jakub;Zawadzki;1968-11-07;23487628358;janekzawadzki@interia.pl;iKZdawaZ701;;7
+Aleksandra;Jabłońska;2005-08-01;67234672334;olajablon@gmail.com;AKsńoŁbaJ108;;8
+Adam;Mróz;1993-05-31;23488977857;amroz@interia.pl;zóRm135;;9
+Monika:Zofia;Zalewska;1985-11-26;47863258327;monia@gmail.com;aksWElAz621;;10
+Łukasz;Szulc;1979-09-30;78258283544;lukas@gmail.com;cLUzs039!;;11
+Julia;Olszewska;1987-07-07;82783567324;jolszewska@gmail.com;aKsWeZSlo707;;12
+Jan;Kowalski;2009-02-10;12345678912;a@e.com;hasl;;13

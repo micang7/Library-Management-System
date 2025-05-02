@@ -1,0 +1,430 @@
+"Predictably Irrational";Dan Ariely;2008;29
+"Predictably Irrational";Dan Ariely;2008;29
+"Predictably Irrational";Dan Ariely;2008;29
+"Predictably Irrational";Dan Ariely;2008;29
+"Predictably Irrational";Dan Ariely;2008;29
+"Predictably Irrational";Dan Ariely;2008;29
+"Predictably Irrational";Dan Ariely;2008;29
+"Predictably Irrational";Dan Ariely;2008;29
+"The Last Man Who Knew Everything";Andrew Robinson;2005;24
+"The Last Man Who Knew Everything";Andrew Robinson;2005;24
+"The Last Man Who Knew Everything";Andrew Robinson;2005;24
+"The Last Man Who Knew Everything";Andrew Robinson;2005;24
+"The Last Man Who Knew Everything";Andrew Robinson;2005;24
+"Charlotte's Web";E.B.White;1952;29
+"Charlotte's Web";E.B.White;1952;29
+"Attached";Amir Levine;2010;13
+"Attached";Amir Levine;2010;13
+"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23
+"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23
+"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23
+"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23
+"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23
+"Maybe You Should Talk to Someone";Lori Gottlieb;2019;23
+"Autobiography";Benjamin Franklin;1791;26
+"Autobiography";Benjamin Franklin;1791;26
+"Autobiography";Benjamin Franklin;1791;26
+"Autobiography";Benjamin Franklin;1791;26
+"Autobiography";Benjamin Franklin;1791;26
+"Autobiography";Benjamin Franklin;1791;26
+"Autobiography";Benjamin Franklin;1791;26
+"The Missing Piece Meets the Big O";Shel Silverstein;1981;5
+"The Missing Piece Meets the Big O";Shel Silverstein;1981;5
+"The Missing Piece Meets the Big O";Shel Silverstein;1981;5
+"The Missing Piece Meets the Big O";Shel Silverstein;1981;5
+"The Missing Piece Meets the Big O";Shel Silverstein;1981;5
+"The Missing Piece Meets the Big O";Shel Silverstein;1981;5
+"The Missing Piece Meets the Big O";Shel Silverstein;1981;5
+"Doing Good Better";William MacAskill;2015;29
+"Doing Good Better";William MacAskill;2015;29
+"Doing Good Better";William MacAskill;2015;29
+"Doing Good Better";William MacAskill;2015;29
+"Doing Good Better";William MacAskill;2015;29
+"Doing Good Better";William MacAskill;2015;29
+"Common Sense";Thomas Paine;1776;29
+"Common Sense";Thomas Paine;1776;29
+"Common Sense";Thomas Paine;1776;29
+"Common Sense";Thomas Paine;1776;29
+"Common Sense";Thomas Paine;1776;29
+"Common Sense";Thomas Paine;1776;29
+"The Master Switch";Tim Wu;2010;25
+"The Master Switch";Tim Wu;2010;25
+"The Master Switch";Tim Wu;2010;25
+"The Master Switch";Tim Wu;2010;25
+"The Master Switch";Tim Wu;2010;25
+"The Master Switch";Tim Wu;2010;25
+"The Master Switch";Tim Wu;2010;25
+"The Wave";Todd Strasser;1981;6
+"The Wave";Todd Strasser;1981;6
+"The Giving Tree";Shel Silverstein;1964;31
+"The Giving Tree";Shel Silverstein;1964;31
+"The Giving Tree";Shel Silverstein;1964;31
+"The Giving Tree";Shel Silverstein;1964;31
+"Compilers, principles, techniques, and tools";Alfred V.Aho;1986;3
+"Of Mice and Men";John Steinbeck;1937;12
+"Of Mice and Men";John Steinbeck;1937;12
+"Of Mice and Men";John Steinbeck;1937;12
+"Of Mice and Men";John Steinbeck;1937;12
+"The Art of War";Sallie Stone;2005;14
+"The Art of War";Sallie Stone;2005;14
+"The Art of War";Sallie Stone;2005;14
+"The Art of War";Sallie Stone;2005;14
+"Introduction to the Theory of Computation";Michael Sipser;2005;16
+"Introduction to the Theory of Computation";Michael Sipser;2005;16
+"Introduction to the Theory of Computation";Michael Sipser;2005;16
+"Introduction to the Theory of Computation";Michael Sipser;2005;16
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Harry Potter and the Goblet of Fire";J.K.Rowling;1993;5
+"Downsiders";Neal Shusterman;2001;13
+"Downsiders";Neal Shusterman;2001;13
+"Downsiders";Neal Shusterman;2001;13
+"Artificial intelligence";Peter Norvig;1994;3
+"Artificial intelligence";Peter Norvig;1994;3
+"Artificial intelligence";Peter Norvig;1994;3
+"Artificial intelligence";Peter Norvig;1994;3
+"Artificial intelligence";Peter Norvig;1994;3
+"Artificial intelligence";Peter Norvig;1994;3
+"Artificial intelligence";Peter Norvig;1994;3
+"Het Achterhuis";Anne Frank;1944;27
+"Het Achterhuis";Anne Frank;1944;27
+"Het Achterhuis";Anne Frank;1944;27
+"Het Achterhuis";Anne Frank;1944;27
+"Het Achterhuis";Anne Frank;1944;27
+"Het Achterhuis";Anne Frank;1944;27
+"Het Achterhuis";Anne Frank;1944;27
+"Het Achterhuis";Anne Frank;1944;27
+"Het Achterhuis";Anne Frank;1944;27
+"Het Achterhuis";Anne Frank;1944;27
+"Green Eggs and Ham";Dr.Seuss;1960;20
+"Green Eggs and Ham";Dr.Seuss;1960;20
+"Green Eggs and Ham";Dr.Seuss;1960;20
+"Green Eggs and Ham";Dr.Seuss;1960;20
+"Green Eggs and Ham";Dr.Seuss;1960;20
+"Green Eggs and Ham";Dr.Seuss;1960;20
+"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11
+"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11
+"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11
+"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11
+"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11
+"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11
+"Harry Potter and the Half-Blood Prince";J.K.Rowling;2005;11
+"The Catcher in the Rye";J.D.Salinger;1900;8
+"The Catcher in the Rye";J.D.Salinger;1900;8
+"The Catcher in the Rye";J.D.Salinger;1900;8
+"Im Westen nichts Neues";Erich Maria Remarque;1928;17
+"Novels (Cannery Row / Of Mice and Men)";John Steinbeck;1947;18
+"Novels (Cannery Row / Of Mice and Men)";John Steinbeck;1947;18
+"The three-body problem";Cixin Liu;2008;17
+"Matilda";Roald Dahl;1988;13
+"Matilda";Roald Dahl;1988;13
+"Matilda";Roald Dahl;1988;13
+"Matilda";Roald Dahl;1988;13
+"Matilda";Roald Dahl;1988;13
+"Matilda";Roald Dahl;1988;13
+"Matilda";Roald Dahl;1988;13
+"Downsiders";Neal Shusterman;1999;10
+"Downsiders";Neal Shusterman;1999;10
+"Downsiders";Neal Shusterman;1999;10
+"Downsiders";Neal Shusterman;1999;10
+"Downsiders";Neal Shusterman;1999;10
+"Downsiders";Neal Shusterman;1999;10
+"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23
+"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23
+"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23
+"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23
+"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23
+"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23
+"Voices from the Paterson Silk Mills (Voices of America)";Jane Wallerstein;2000;23
+"Ready Player One";Ernest Cline;2008;11
+"Introduction to the theory of computation";Michael Sipser;1996;12
+"Introduction to the theory of computation";Michael Sipser;1996;12
+"Introduction to the theory of computation";Michael Sipser;1996;12
+"Introduction to the theory of computation";Michael Sipser;1996;12
+"Introduction to the theory of computation";Michael Sipser;1996;12
+"Introduction to the theory of computation";Michael Sipser;1996;12
+"Introduction to the theory of computation";Michael Sipser;1996;12
+"Introduction to the theory of computation";Michael Sipser;1996;12
+"Introduction to the theory of computation";Michael Sipser;1996;12
+"Risk up front";Adam Josephs;2018;30
+"Risk up front";Adam Josephs;2018;30
+"A short history of nearly everything";Bill Bryson;2003;12
+"A short history of nearly everything";Bill Bryson;2003;12
+"A short history of nearly everything";Bill Bryson;2003;12
+"A short history of nearly everything";Bill Bryson;2003;12
+"A short history of nearly everything";Bill Bryson;2003;12
+"Drawdown";Paul Hawken;2017;14
+"Drawdown";Paul Hawken;2017;14
+"Drawdown";Paul Hawken;2017;14
+"Drawdown";Paul Hawken;2017;14
+"Drawdown";Paul Hawken;2017;14
+"Drawdown";Paul Hawken;2017;14
+"Musical acoustics";Hall Donald;1980;3
+"Operating System Concepts";Abraham Silberschatz;1988;21
+"Operating System Concepts";Abraham Silberschatz;1988;21
+"Operating System Concepts";Abraham Silberschatz;1988;21
+"Operating System Concepts";Abraham Silberschatz;1988;21
+"Operating System Concepts";Abraham Silberschatz;1988;21
+"Operating System Concepts";Abraham Silberschatz;1988;21
+"Operating System Concepts";Abraham Silberschatz;1988;21
+"Operating System Concepts";Abraham Silberschatz;1988;21
+"Operating System Concepts";Abraham Silberschatz;1988;21
+"Network security";Charlie Kaufman;1995;31
+"Network security";Charlie Kaufman;1995;31
+"Network security";Charlie Kaufman;1995;31
+"Network security";Charlie Kaufman;1995;31
+"Network security";Charlie Kaufman;1995;31
+"Network security";Charlie Kaufman;1995;31
+"Founders at work";Jessica Livingston;2007;17
+"Founders at work";Jessica Livingston;2007;17
+"Founders at work";Jessica Livingston;2007;17
+"Founders at work";Jessica Livingston;2007;17
+"Founders at work";Jessica Livingston;2007;17
+"Introduction to linear algebra";Gilbert Strang;1998;18
+"Introduction to linear algebra";Gilbert Strang;1998;18
+"Introduction to linear algebra";Gilbert Strang;1998;18
+"Introduction to linear algebra";Gilbert Strang;1989;22
+"Understanding Symbolic Logic";Virginia Klenk;1983;7
+"Understanding Symbolic Logic";Virginia Klenk;1983;7
+"Understanding Symbolic Logic";Virginia Klenk;1983;7
+"Understanding Symbolic Logic";Virginia Klenk;1983;7
+"Understanding Symbolic Logic";Virginia Klenk;1983;7
+"Understanding Symbolic Logic";Virginia Klenk;1983;7
+"Cornered";Barry C.Lynn;2010;11
+"Cornered";Barry C.Lynn;2010;11
+"Cornered";Barry C.Lynn;2010;11
+"Cornered";Barry C.Lynn;2010;11
+"Cornered";Barry C.Lynn;2010;11
+"The prince, and selected discourses";Niccolò Machiavelli;1966;24
+"The prince, and selected discourses";Niccolò Machiavelli;1966;24
+"The prince, and selected discourses";Niccolò Machiavelli;1966;24
+"The prince, and selected discourses";Niccolò Machiavelli;1966;24
+"The prince, and selected discourses";Niccolò Machiavelli;1966;24
+"The prince, and selected discourses";Niccolò Machiavelli;1966;24
+"The prince, and selected discourses";Niccolò Machiavelli;1966;24
+"The prince, and selected discourses";Niccolò Machiavelli;1966;24
+"Le Comte de Monte Cristo";Alexandre Dumas;1830;12
+"On Tyranny";Timothy Snyder;2017;17
+"On Tyranny";Timothy Snyder;2017;17
+"On Tyranny";Timothy Snyder;2017;17
+"On Tyranny";Timothy Snyder;2017;17
+"On Tyranny";Timothy Snyder;2017;17
+"On Tyranny";Timothy Snyder;2017;17
+"On Tyranny";Timothy Snyder;2017;17
+"On Tyranny";Timothy Snyder;2017;17
+"On Tyranny";Timothy Snyder;2017;17
+"On Tyranny";Timothy Snyder;2017;17
+"The Art of War";Sun Tzu;1910;25
+"The Art of War";Sun Tzu;1910;25
+"The Art of War";Sun Tzu;1910;25
+"The Art of War";Sun Tzu;1910;25
+"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27
+"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27
+"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27
+"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27
+"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27
+"Many Waters (Time Quintet #4)";Madeleine L'Engle;1986;27
+"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16
+"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16
+"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16
+"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16
+"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16
+"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16
+"Harry Potter and the Methods of Rationality";Eliezer Yudkowsky;2015;16
+"Which side are you on?";Thomas Geoghegan;1991;28
+"Which side are you on?";Thomas Geoghegan;1991;28
+"Who Owns the Future?";Jaron Lanier;2013;12
+"Who Owns the Future?";Jaron Lanier;2013;12
+"Who Owns the Future?";Jaron Lanier;2013;12
+"Who Owns the Future?";Jaron Lanier;2013;12
+"Who Owns the Future?";Jaron Lanier;2013;12
+"Reinventing Organizations";Frederic Laloux;2014;7
+"Reinventing Organizations";Frederic Laloux;2014;7
+"Reinventing Organizations";Frederic Laloux;2014;7
+"Reinventing Organizations";Frederic Laloux;2014;7
+"The 22 immutable laws of marketing";Al Ries;1993;7
+"The 22 immutable laws of marketing";Al Ries;1993;7
+"The 22 immutable laws of marketing";Al Ries;1993;7
+"The 22 immutable laws of marketing";Al Ries;1993;7
+"The better angels of our nature";Steven Pinker;2011;19
+"The better angels of our nature";Steven Pinker;2011;19
+"The better angels of our nature";Steven Pinker;2011;19
+"The better angels of our nature";Steven Pinker;2011;19
+"The better angels of our nature";Steven Pinker;2011;19
+"The better angels of our nature";Steven Pinker;2011;19
+"Debt";David Graeber;2011;13
+"Debt";David Graeber;2011;13
+"Influence";Robert B.Cialdini;1983;17
+"Influence";Robert B.Cialdini;1983;17
+"Influence";Robert B.Cialdini;1983;17
+"Influence";Robert B.Cialdini;1983;17
+"Influence";Robert B.Cialdini;1983;17
+"Lord of Flies";William Golding;1954;4
+"Lord of Flies";William Golding;1954;4
+"Lord of Flies";William Golding;1954;4
+"Lord of Flies";William Golding;1954;4
+"Lord of Flies";William Golding;1954;4
+"Lord of Flies";William Golding;1954;4
+"Lord of Flies";William Golding;1954;4
+"Lord of Flies";William Golding;1954;4
+"Moral mazes";Robert Jackall;1988;25
+"Moral mazes";Robert Jackall;1988;25
+"Moral mazes";Robert Jackall;1988;25
+"Moral mazes";Robert Jackall;1988;25
+"Moral mazes";Robert Jackall;1988;25
+"Moral mazes";Robert Jackall;1988;25
+"Moral mazes";Robert Jackall;1988;25
+"Moral mazes";Robert Jackall;1988;25
+"Moral mazes";Robert Jackall;1988;25
+"Moral mazes";Robert Jackall;1988;25
+"Understanding Power";Noam Chomsky;2002;26
+"Harry Potter and the Order of the Phoenix";J.K.Rowling;2003;26
+"The Prince";Niccolò Machiavelli;1515;3
+"The Prince";Niccolò Machiavelli;1515;3
+"The Prince";Niccolò Machiavelli;1515;3
+"The Prince";Niccolò Machiavelli;1515;3
+"The Prince";Niccolò Machiavelli;1515;3
+"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28
+"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28
+"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28
+"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28
+"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28
+"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28
+"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28
+"Harry Potter and the Philosopher's Stone";J.K.Rowling;1997;28
+"Glut";Alex Wright;2007;7
+"Glut";Alex Wright;2007;7
+"Glut";Alex Wright;2007;7
+"Glut";Alex Wright;2007;7
+"Glut";Alex Wright;2007;7
+"How to win friends and influence people";Dale Carnegie;1913;3
+"How to win friends and influence people";Dale Carnegie;1913;3
+"How to win friends and influence people";Dale Carnegie;1913;3
+"How to win friends and influence people";Dale Carnegie;1913;3
+"Zen and the Art of Motorcycle Maintenance";Robert M.Pirsig;1974;30
+"The authoritative Calvin and Hobbes";Bill Watterson;1988;23
+"The Giver";Lois Lowry;1993;7
+"The Giver";Lois Lowry;1993;7
+"The Giver";Lois Lowry;1993;7
+"The Giver";Lois Lowry;1993;7
+"Sam Walton";Sam Walton;1992;11
+"Sam Walton";Sam Walton;1992;11
+"Sam Walton";Sam Walton;1992;11
+"Sam Walton";Sam Walton;1992;11
+"Sam Walton";Sam Walton;1992;11
+"Sam Walton";Sam Walton;1992;11
+"Sam Walton";Sam Walton;1992;11
+"The Legacy";R.A.Salvatore;1992;16
+"The Legacy";R.A.Salvatore;1992;16
+"The Legacy";R.A.Salvatore;1992;16
+"The Legacy";R.A.Salvatore;1992;16
+"The now habit";Neil Fiore;1988;18
+"The now habit";Neil Fiore;1988;18
+"The now habit";Neil Fiore;1988;18
+"The now habit";Neil Fiore;1988;18
+"The now habit";Neil Fiore;1988;18
+"The Lone Drow";R.A.Salvatore;2003;13
+"The Checklist Manifesto";Atul Gawande;2010;24
+"The Checklist Manifesto";Atul Gawande;2010;24
+"The Checklist Manifesto";Atul Gawande;2010;24
+"The Checklist Manifesto";Atul Gawande;2010;24
+"The Checklist Manifesto";Atul Gawande;2010;24
+"The Checklist Manifesto";Atul Gawande;2010;24
+"The Checklist Manifesto";Atul Gawande;2010;24
+"The Checklist Manifesto";Atul Gawande;2010;24
+"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18
+"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18
+"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18
+"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18
+"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18
+"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18
+"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18
+"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18
+"A Swiftly Tilting Planet (Time Quintet #3)";Madeleine L'Engle;1978;18
+"The Hyperlinked Society";Lokman Tsui;2008;24
+"William Golding's Lord of the flies";F.William Nelson;1963;20
+"William Golding's Lord of the flies";F.William Nelson;1963;20
+"William Golding's Lord of the flies";F.William Nelson;1963;20
+"William Golding's Lord of the flies";F.William Nelson;1963;20
+"William Golding's Lord of the flies";F.William Nelson;1963;20
+"William Golding's Lord of the flies";F.William Nelson;1963;20
+"William Golding's Lord of the flies";F.William Nelson;1963;20
+"William Golding's Lord of the flies";F.William Nelson;1963;20
+"Jumanji";Chris Van Allsburg;1981;8
+"Hatchet";Gary Paulsen;1986;6
+"Hatchet";Gary Paulsen;1986;6
+"Hatchet";Gary Paulsen;1986;6
+"Hatchet";Gary Paulsen;1986;6
+"Hatchet";Gary Paulsen;1986;6
+"Hatchet";Gary Paulsen;1986;6
+"Hatchet";Gary Paulsen;1986;6
+"Hatchet";Gary Paulsen;1986;6
+"Hatchet";Gary Paulsen;1986;6
+"Principles";Ray Dalio;2011;21
+"Principles";Ray Dalio;2011;21
+"Principles";Ray Dalio;2011;21
+"Principles";Ray Dalio;2011;21
+"Principles";Ray Dalio;2011;21
+"Animal Farm";George Orwell;1945;20
+"Animal Farm";George Orwell;1945;20
+"Animal Farm";George Orwell;1945;20
+"Harry Potter and the Prisoner of Azkaban";J.K.Rowling;1999;9
+"Harry Potter and the Prisoner of Azkaban";J.K.Rowling;1999;9
+"Streams of Silver";R.A.Salvatore;1989;12
+"Streams of Silver";R.A.Salvatore;1989;12
+"Streams of Silver";R.A.Salvatore;1989;12
+"Streams of Silver";R.A.Salvatore;1989;12
+"Streams of Silver";R.A.Salvatore;1989;12
+"Streams of Silver";R.A.Salvatore;1989;12
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Apostle";R.A.Salvatore;1999;23
+"The Demon Spirit";R.A.Salvatore;1998;17
+"The Highwayman";R.A.Salvatore;2004;27
+"The Highwayman";R.A.Salvatore;2004;27
+"The Highwayman";R.A.Salvatore;2004;27
+"Assata";Assata Shakur;1987;4
+"Assata";Assata Shakur;1987;4
+"Assata";Assata Shakur;1987;4
+"Assata";Assata Shakur;1987;4
+"Assata";Assata Shakur;1987;4
+"High Output Management";Andrew S.Grove;1983;2
+"High Output Management";Andrew S.Grove;1983;2
+"High Output Management";Andrew S.Grove;1983;2
+"The Crystal Shard";R.A.Salvatore;1988;13
+"The Crystal Shard";R.A.Salvatore;1988;13
+"The Crystal Shard";R.A.Salvatore;1988;13
+"The Crystal Shard";R.A.Salvatore;1988;13
+"The Crystal Shard";R.A.Salvatore;1988;13
+"The Crystal Shard";R.A.Salvatore;1988;13
+"The Crystal Shard";R.A.Salvatore;1988;13
+"The Crystal Shard";R.A.Salvatore;1988;13
+"The fellowship of the ring";J.R.R.Tolkien;1954;13
+"The fellowship of the ring";J.R.R.Tolkien;1954;13
+"The fellowship of the ring";J.R.R.Tolkien;1954;13
+"The fellowship of the ring";J.R.R.Tolkien;1954;13
+"The fellowship of the ring";J.R.R.Tolkien;1954;13
+"The fellowship of the ring";J.R.R.Tolkien;1954;13
+"The fellowship of the ring";J.R.R.Tolkien;1954;13
+"The fellowship of the ring";J.R.R.Tolkien;1954;13
+"The fellowship of the ring";J.R.R.Tolkien;1954;13
+"Exile";R.A.Salvatore;1990;18
+"Exile";R.A.Salvatore;1990;18
+"Exile";R.A.Salvatore;1990;18
+"Animalia";Graeme Base;1986;12
+"Animalia";Graeme Base;1986;12
+"Animalia";Graeme Base;1986;12
